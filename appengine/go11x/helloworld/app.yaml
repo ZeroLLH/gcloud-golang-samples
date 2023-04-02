@@ -13,3 +13,4 @@
 # limitations under the License.
 
 runtime: go115
+service: my-go-service-1
